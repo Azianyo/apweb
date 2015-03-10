@@ -1,3 +1,1 @@
 # apweb
-lubie placki
-
